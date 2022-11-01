@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayoubbensakhria
+- 👋 Hi, I’m Ayoub (@ayoubbensakhria)
 - 👀 I’m interested in Software Engineering, Quantitative Finance, Healthcare
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on exciting Data Technology Projects (Healthcare, Finance)
