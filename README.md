@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayoub (@ayoubbensakhria)
-- 👀 I’m interested in Software Engineering, Quantitative Finance, Healthcare
+- 👀 I’m interested in AI/ML Research, Software Engineering
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on exciting Data Technology Projects (Healthcare, Finance)
 - 📫 Please visit my website: ayoubb.com
