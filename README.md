@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ayoub (@ayoubbensakhria)
-- 👀 I’m interested in AI/ML Research, Software Engineering
+- 👋 Hi, I’m Ayoub (@ayoubbensakhria), I'm 35 from Algeria 🇩🇿, I live in the UK 🇬🇧
+- 👀 I’m interested in Software Engineering, AI/ML Research
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on exciting Data Technology Projects (Healthcare, Finance)
+- 💞️ I’m looking to collaborate on exciting Projects (Healthcare, Finance, Digital Marketing, Education)
+- I speak English French and Arabic
 - 📫 Please visit my website: ayoubb.com
 
 <!---
